@@ -7,7 +7,7 @@ First sketches for Baseball data visualization
 
 
 ```r
-baseball <- read.csv("data/baseball_data.csv")
+baseball <- read.csv("baseball_data.csv")
 baseball$name <- as.character(baseball$name)
 
 # Convert units to cm and kg.

@@ -1,22 +1,4 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @OliviaJonah
- Sign out
- Watch 1
-  Star 1
-  Fork 2 zelite/Make-Effective-Data-Visualization
- Code  Issues 0  Pull requests 0  Projects 0  Wiki Insights 
-Branch: master Find file Copy pathMake-Effective-Data-Visualization/js/create_barplot.js
-07c2d06  on Jul 1, 2016
-@zelite zelite Buttons and colors
-1 contributor
-RawBlameHistory     
-183 lines (156 sloc)  5.31 KB
+
 //D3 code for baseball Visualization
 
 // Defining margins as in  http://bl.ocks.org/mbostock/3019563
@@ -199,5 +181,3 @@ button_pct.on("click", function(){
     change_bars("count");
   }});
 }//end of draw function
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help

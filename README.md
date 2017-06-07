@@ -9,7 +9,7 @@ Remove players with zero batting average, as the performance indicator in the da
 
 ### Bar Plot
 
-A simple bar plot is used to compares the proportion of baseball players in each handedness
+A simple bar plot is used to compare the proportion of baseball players in each handedness
 category .
 
 ### Box-Plots
@@ -19,7 +19,7 @@ Box-plots are used to compare the batting average and home runs. so that
 
   * compare medians.
   * compare distributions.
-  *  visualize outliers.
+  * visualize outliers.
 
 ## Feedback
 
